@@ -8,4 +8,6 @@
 
 ## Week 2 -- [reticulate exercises](https://github.com/TatyanaLev/EE283HW2)
 
-## Week 3 --[dplyr exercises](https://github.com/TatyanaLev/EE283HW3)
+## Week 3 -- [dplyr exercises](https://github.com/TatyanaLev/EE283HW3)
+
+## Week 4 -- [snakemake exercises](https://github.com/TatyanaLev/EE283HW4)
