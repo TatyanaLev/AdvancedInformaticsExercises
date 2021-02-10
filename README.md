@@ -11,3 +11,5 @@
 ## Week 3 -- [dplyr exercises](https://github.com/TatyanaLev/EE283HW3)
 
 ## Week 4 -- [snakemake exercises](https://github.com/TatyanaLev/EE283HW4)
+
+## Week 5 -- [plotting exercises](https://github.com/TatyanaLev/EE283HW5)
