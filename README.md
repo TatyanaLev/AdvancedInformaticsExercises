@@ -13,3 +13,5 @@
 ## Week 4 -- [snakemake exercises](https://github.com/TatyanaLev/EE283HW4)
 
 ## Week 5 -- [plotting exercises](https://github.com/TatyanaLev/EE283HW5)
+
+## Week 6 -- [symlinks excercises](https://github.com/TatyanaLev/EE283HW6)
