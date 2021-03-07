@@ -6,14 +6,14 @@
 
 ## Week 1 -- Add random text
 
-## Week 2 -- [reticulate exercises](https://github.com/TatyanaLev/EE283HW2)
+## Week 2 -- [reticulate](https://github.com/TatyanaLev/EE283HW2)
 
-## Week 3 -- [dplyr exercises](https://github.com/TatyanaLev/EE283HW3)
+## Week 3 -- [dplyr](https://github.com/TatyanaLev/EE283HW3)
 
-## Week 4 -- [snakemake exercises](https://github.com/TatyanaLev/EE283HW4)
+## Week 4 -- [snakemake](https://github.com/TatyanaLev/EE283HW4)
 
-## Week 5 -- [plotting exercises](https://github.com/TatyanaLev/EE283HW5)
+## Week 5 -- [plotting](https://github.com/TatyanaLev/EE283HW5)
 
-## Week 6 -- [symlinks excercises](https://github.com/TatyanaLev/EE283HW6)
+## Week 6 -- [symlinks](https://github.com/TatyanaLev/EE283HW6)
 
-## Week 7 -- [alignment exercises](https://github.com/TatyanaLev/EE283HW7)
+## Week 7 -- [alignment](https://github.com/TatyanaLev/EE283HW7)
