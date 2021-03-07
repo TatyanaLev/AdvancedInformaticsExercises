@@ -15,3 +15,5 @@
 ## Week 5 -- [plotting exercises](https://github.com/TatyanaLev/EE283HW5)
 
 ## Week 6 -- [symlinks excercises](https://github.com/TatyanaLev/EE283HW6)
+
+## Week 7 -- [alignment exercises](https://github.com/TatyanaLev/EE283HW7)
