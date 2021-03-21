@@ -20,5 +20,9 @@
 
 ## Week 8 -- [genotyping DNA and counting RNA reads](https://github.com/TatyanaLev/EE283HW8)
 
-## Week 9 -- [RNAseq (in progress, having issues) and ATAC analyses](https://github.com/TatyanaLev/EE283HW9)
+## Week 9 -- [RNA and ATAC analyses](https://github.com/TatyanaLev/EE283HW9)
 
+## TODO: 
+
+1. add READMEs to HW6-10
+2. upload as much of proj as possible
