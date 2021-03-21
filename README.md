@@ -19,3 +19,6 @@
 ## Week 7 -- [alignment](https://github.com/TatyanaLev/EE283HW7)
 
 ## Week 8 -- [genotyping DNA and counting RNA reads](https://github.com/TatyanaLev/EE283HW8)
+
+## Week 9 -- [RNAseq (in progress, having issues) and ATAC analyses](https://github.com/TatyanaLev/EE283HW9)
+
