@@ -22,7 +22,9 @@
 
 ## Week 9 -- [RNA and ATAC analyses](https://github.com/TatyanaLev/EE283HW9)
 
+## Week 10 -- [Project](https://github.com/TatyanaLev/EE283HW10)
+
 ## TODO: 
 
-1. add READMEs to HW6-10
+1. done
 2. upload as much of proj as possible
